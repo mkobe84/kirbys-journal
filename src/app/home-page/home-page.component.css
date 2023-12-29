@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+	background-color: #f3bac3;
+	color: var(--bs-light);
+	font-family: 'Urbanist', sans-serif;
+}
+
+
+h1 {
+	font-weight: 900;
+	color: #333;
+}
+
+h2, h3 {
+	font-weight: 700;
+	color:#333;
+}
+
+a {
+	color: #c47179;
+}
+
+.icon{
+    height: 32px;
+    width: 40px;
+}
+.navbar {
+    background-color: black;
+}
